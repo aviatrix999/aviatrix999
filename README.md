@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <img src="amisha.jpg" width="140" style="border-radius:50%" />
+  <img src="amisha.jpg" width="180" style="border-radius:50%" />
 </p>
 
 ---
