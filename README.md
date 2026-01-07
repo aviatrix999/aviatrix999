@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <img src="YOUR_PROFILE_IMAGE_LINK" width="140" style="border-radius:50%" />
+  <img src="amisha.jpg" width="140" style="border-radius:50%" />
 </p>
 
 ---
@@ -33,22 +33,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviatrix999&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviatrix999&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviatrix999&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Projects
-- 🔹 **Project One** – short description  
-- 🔹 **Project Two** – short description  
+
 
 ---
 
